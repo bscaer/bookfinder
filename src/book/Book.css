@@ -1,0 +1,21 @@
+
+div.box-shadow-md {
+    box-shadow: 1px 2px 4px black;
+    margin: 1em;
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+}
+
+p.title {
+    font-size: x-large;
+    color: dimgray;
+    font-weight: bolder;
+}
+
+p {
+    color: gray;
+    font-size: small;
+    font-weight: bold;
+}

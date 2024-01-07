@@ -1,0 +1,28 @@
+.App {
+    text-align: center;
+}
+
+p.header {
+    align-items: center;
+    font-size: xx-large;
+    color: gray;
+}
+
+p.error {
+    align-items: center;
+    font-size: xx-large;
+    color: red;
+}
+
+div.search {
+    margin-left: 50px;
+    margin-right: 50px;
+    display: grid;
+    grid-template-columns: 5fr 0.1fr 2fr;
+}
+
+div.books {
+    display: flex;
+    flex-direction: row; 
+    flex-wrap: wrap;
+}
